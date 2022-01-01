@@ -5,7 +5,7 @@ import Layout from "@/components/Layout";
 const Home: NextPage = () => {
   return (
     <Layout>
-      <Center width="100%" height="100%">
+      <Center width="100%" height="100vh">
         Boilerplate
       </Center>
     </Layout>
